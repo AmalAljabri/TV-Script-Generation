@@ -1,5 +1,5 @@
 # TV Script Generation 📺✨
-Implementing a Recurrent Neural Networks (RNN) to Generate Seinfeld TV Scripts under Udacity Deep Learning Nanodegree Program!
+Implementing a Recurrent Neural Networks (RNN) to Generate Seinfeld TV Scripts under Deep Learning Nanodegree Program from Udacity!
 # Demo Video 🎞👇
 **Please Visit** [Youtube](https://www.youtube.com/watch?v=MtUNVVzgiM8)<br/>
 
